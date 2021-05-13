@@ -1,0 +1,10 @@
+
+
+DB Name	id14438666_coviddb
+DB User	id14438666_username
+DB Host	localhost
+password = Nm6~&S[uWn3hL~An
+web username = covid19management
+website pass = sohammnt
+
+https://covid19management.000webhostapp.com/
